@@ -1,6 +1,6 @@
 Terraform CLI commands
 
- terraform init
- terraform validate
- terraform plan
- terraform apply
+ 1. terraform init
+ 2. terraform validate
+ 3. terraform plan
+ 4. terraform apply
